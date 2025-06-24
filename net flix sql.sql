@@ -1,0 +1,1 @@
+SELECT * FROM netflix_data.netflix_directors;
